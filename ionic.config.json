@@ -1,0 +1,8 @@
+{
+  "name": "Manhattan Lounge Bar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0b82c920"
+}

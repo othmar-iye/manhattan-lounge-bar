@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Manhattan Lounge Bar",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
